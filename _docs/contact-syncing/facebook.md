@@ -1,17 +1,19 @@
 ---
-title: Facebook
+title: 메일함 이동
 category: Contact Syncing
 order: 1
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+메일함을 이동시킬 수 있습니다.
+메일함을 끌어다 높을 때 표시된 선 기준으로 아래에 있는 메일함과 동일한 단계로 이동됩니다.
 
-> Signing up with Facebook automatically starts syncing contacts.
+> 마우스로 끌어서 메일함의 순서를 변경하거나 특정 메일함의 하위로 이동시킬 수 있습니다.
 
 To sync your contacts:
 
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
+1. 상단의 아이콘을 클릭합니다.
+2. **메일** 을 클릭합니다.
+3. 이동시키려는 메일함을 클릭한 후 원하는 위치로 끌어다 놓습니다.
+   다른 메일함의 하위로 이동시키려면 해당 메일함에 끌어다 놓습니다.
 
 ![](//placehold.it/800x600)
